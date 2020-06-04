@@ -1,11 +1,11 @@
 <package>
-    <id>com.supermamon.oldpackage</id>
+    <id>com.tweakworld.ins</id>
     <name>Old Package</name>
     <version>1.0.0-1</version>
     <compatibility>
         <firmware>
             <miniOS>5.0</miniOS>
-            <maxiOS>7.0</maxiOS>
+            <maxiOS>13</maxiOS>
             <otherVersions>unsupported</otherVersions>
             <!--
             for otherVersions, you can put either unsupported or unconfirmed
@@ -14,7 +14,7 @@
     </compatibility>
     <dependencies></dependencies>
     <descriptionlist>
-        <description>This is an old package. Requires iOS 7 and below..</description>
+        <description>This is an New package. Requires iOS 5 and Above..</description>
     </descriptionlist>
     <screenshots></screenshots>
     <changelog>
